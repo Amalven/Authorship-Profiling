@@ -6,9 +6,9 @@ This project builds classification algorithms that predicts the gender of the au
 2. `test_labels.csv` contains 500 testing ids and gender.
 3. `Data.zip` contains 3,600 twitter texts for those authors, which acts as the training and testing data.
 
-# Data Preparation and Extraction
+## Data Preparation and Extraction
 We have done lowercasing, stopwords removal and cleaning, tokenization, stemming, and lemmatization.
-# Feature Extraction
+## Feature Extraction
 TF-IDF has been used for feature extraction.
-# Model Building
+## Model Building
 Many classification models has been tried and we got SVM with better accuracy.
